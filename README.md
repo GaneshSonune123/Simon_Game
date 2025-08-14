@@ -3,7 +3,7 @@
 A web-based implementation of the classic Simon Game, built using HTML, CSS, and JavaScript.
 The goal of the game is to repeat the sequence of button flashes in the correct order to reach higher levels.
 
-# Features
+* *Features*
 •🎨 Attractive UI with smooth animations
 •🖱️ Mouse click support for playing
 •⌨️ Keyboard keypress to start the game
