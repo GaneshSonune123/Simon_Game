@@ -24,6 +24,7 @@ The goal of the game is to repeat the sequence of button flashes in the correct 
 
 ## Project Structure
 📂 Simon-Game
+
  ├── 📄 index.html   
  ├── 🎨 style.css    
  ├── ⚙️ script.js    
